@@ -1,19 +1,22 @@
 # WISH-1
 
-=================
-### INSTALLATION
-_________________
+
 ### Needed packages
 ```
 $ python
+```
 $ nano
+```
+=================
+### INSTALLATION
+_________________
 ```
 $ pkg install python
 ```
 $ pkg install nano
 ```
 $ git clone https://github.com/Kingmob007/WISH-1
-
+```
 
 
 
