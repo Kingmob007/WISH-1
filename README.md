@@ -1,6 +1,20 @@
 # WISH-1
-#INSTALLATION
+
+=================
+### INSTALLATION
 _________________
+### Needed packages
 ```
-$ arjun
-Programmed by Arjun
+$ python
+$ nano
+```
+$ pkg install python
+```
+$ pkg install nano
+```
+$ git clone https://github.com/Kingmob007/WISH-1
+
+
+
+
+coded by arjun
